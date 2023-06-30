@@ -8,8 +8,8 @@ LONG_DESCRIPTION = 'My first Python package with a slightly longer description'
 setup(
        # the name must match the folder name 'verysimplemodule'
         name="hallu_filter", 
-        version=0.0.1,
-        description=preventing hallucinations,
+        version="0.0.1",
+        description="preventing hallucinations",
         packages=find_packages(),
         install_requires=[], # add any additional packages that 
         # needs to be installed along with your package. Eg: 'caer'
