@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='Setup File',
+    name='llmhalufilter',
     version='0.1',
     scripts=['main.py'],
 )
